@@ -1,0 +1,115 @@
+/* * {} */
+
+
+.borderRed {
+    border: 5px red dashed;
+}
+
+h1 {
+    background-color: #0088dd;
+    /* padding will be create space between border and test */
+    /* padding: 10px; */
+}
+u{
+    color: rgb(48, 41, 41);
+}
+body {margin:0;}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+
+h3.ten{
+    color: beige;
+    text-shadow: chartreuse 2px 2px;
+  }
+  
+  footer{
+    background-color :rgb(26,22,22);
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(26, 22, 22);
+    color: white;
+    text-align: center;
+  }
+  
+  
+  h2.one{
+    display: inline;
+    margin-right: 100px;
+    padding: 12px 16px;
+  }
+
+  h2.two{
+    display: inline;
+    margin-right: 100px;
+    padding: 12px 16px;
+  }
+  h2.three{
+    display: inline;
+    margin-right: 100px;
+    padding: 12px 16px;
+  }
+  h2.four{
+    display: inline;
+    margin-right: 100px;
+    padding: 12px 16px;
+  }
+  footer{
+    background-color: black;
+    color: whitesmoke;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(26, 22, 22);
+    color: white;
+    text-align: center;
+  }
+  
+  h3{
+    display: inline;
+    margin-right: 100px;
+    padding: 12px 16px;
+  }
+
+  p:hover{
+    background-color: rgb(196, 226, 223);
+    cursor: pointer;
+  }
+  h2{
+    background-color:rgb(234, 243, 202);
+  }

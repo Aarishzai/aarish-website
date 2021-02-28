@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+     flex-direction: row-reverse; 
+     flex-wrap: wrap-reverse; 
+}
+
+ h2 {
+    flex: 1; 
+    width: 300px; 
+    margin: 10px; 
+    padding: 10px;
+    color: rgb(29, 25, 25);
+}
+
+h2.two {
+    display: flex;
+    flex: 1; 
+    width: 700px; 
+    border: outset 2px; 
+    box-shadow: 2px 4px 8px red;
+    margin: 10px; 
+    padding: 10px;
+    color: rgb(31, 22, 22);
+}
+
+
+
+h2.one {
+    flex: 1; 
+    width: 1200px;    
+    margin: 10px; 
+    padding: 10px;
+    color: rgb(31, 27, 27);
+}
+div.two{
+    display: flex;
+}
+div.navbar{
+    flex: 1; 
+    width: 1360px; 
+    margin: 10px; 
+    padding: 10px;
+
+}
+
+
+div.slideshow-container{
+    align-items: center;
+padding: 10px;
+
+
+
+
+}
+
+
